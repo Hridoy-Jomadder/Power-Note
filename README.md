@@ -27,5 +27,5 @@
 26. Data Science & Analytics
 27. Cybersecurity
 28. Ethical Hacking
-29. 
-30.
+29. UI 
+30. UX
