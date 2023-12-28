@@ -17,7 +17,7 @@
 16. Mozilla Firefox
 17. Domin
 18. Hosting
-19. Google SEO
+19. Google SEO                                                                                                                
 20. Google Search Console
 21. Google Analytics
 22. Git
