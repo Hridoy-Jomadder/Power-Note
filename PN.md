@@ -23,7 +23,7 @@
 22. Git
 23. Github Profile
 24. LinkedIn Profile
-25. Icon (https://www.iconfinder.com/) (https://iconmonstr.com/) (https://icons8.com/)
+25. Icon (https://fontawesome.com) (https://www.iconfinder.com) (https://iconmonstr.com) (https://icons8.com)
 26. Data Science & Analytics
 27. Cybersecurity
 28. Ethical Hacking
