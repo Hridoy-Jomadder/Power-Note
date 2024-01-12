@@ -1,4 +1,4 @@
-# Note Name:Power-Note
+# Note Name: Power-Note
 1. Html 
 2. Css 
 3. Javascript
