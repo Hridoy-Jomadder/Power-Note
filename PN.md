@@ -32,8 +32,9 @@
 31. Star 
 32. Star Dashboard 
 33. Todo list
-34. Advance SQL
+34. Advance SQL (s)
 35. CopyWri
-36. s marking
+36. s marketing (n)
+37. 
 Let's go,,,
 
