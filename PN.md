@@ -32,7 +32,7 @@
 31. Star 
 32. Star Dashboard 
 33. Todo list
-34. Advance SQL (s)
+34. Advance SQL 
 35. CopyWri
 36. s marketing (n)
 37. Advance PHP (t)
