@@ -34,7 +34,7 @@
 33. Todo list
 34. Advance SQL 
 35. CopyWri
-36. s marketing 
+36. Google search marketing 
 37. Advance PHP 
 38. Networking
 39.h 
