@@ -1,7 +1,7 @@
 # Note Name: Power-Note
 1. Html 
 2. Css 
-3. Javascript
+3. Javascript E-Book(https://with.zonayed.me/js)
 4. Dom
 5. Ajax
 6. Es6
