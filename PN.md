@@ -10,7 +10,7 @@
 9. Software Development Lifecycle
 10. Project Management
 11. Software Design
-12. Php E-Book(https://php.howtocode.dev)
+12. Php E-Book(https://php.howtocode.dev) (https://php.polashmahmud.com/class-01.html)
 13. MySql
 14. LocalHost
 15. Code Editor
