@@ -33,7 +33,7 @@
 32. Star Dashboard 
 33. Todo list
 34. Advance SQL 
-35. CopyWri
+35. CopyWriting
 36. Google search marketing 
 37. Advance PHP 
 38. Networking
@@ -41,7 +41,7 @@
 40. Dashboard
 41. Star Domain
 42. 
-43. 2
+43. 
 44. 
 
 
