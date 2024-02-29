@@ -48,7 +48,8 @@
 47. Star add one\
 48. Domin
 49.  Star
-50.  55nkilij
+50.  55nki
+51.  lij
 
 
 Let's go,,,
