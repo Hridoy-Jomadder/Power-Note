@@ -48,7 +48,7 @@
 47. Type
 48. post star
 49.  Person
-50.  55n
+50.  Star
 51.  ki
 52.  lij
 
