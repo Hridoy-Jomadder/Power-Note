@@ -44,10 +44,10 @@
 43. Star Person
 44. Star Follow
 45. Star ok
-46. Star 
-47. Star add one\
-48. Domin
-49.  Star
+46. Userid
+47. Type
+48. post star
+49.  Person
 50.  55n
 51.  ki
 52.  lij
