@@ -49,8 +49,8 @@
 48. post star
 49.  Person
 50.  Star
-51.  ki
-52.  lij
+51.  ux 
+52.  ui
 
 
 Let's go,,,
