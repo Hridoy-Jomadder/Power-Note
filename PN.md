@@ -53,8 +53,7 @@
 52.  ui
 53.  Networking
 54.  work
-55.ডাি
-56.
+     56.
 
 
 Let's go,,,
