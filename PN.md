@@ -55,7 +55,7 @@
 54.  work
 55. Videolll
 56. https://designstripe.com/
-57. resum
+57. resume
 
 Let's go,,,
 
