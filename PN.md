@@ -62,3 +62,17 @@
 
 Let's go,,,
 
+You can achieve this by utilizing the `window.scrollTo()` method in JavaScript. First, you need to determine the position on the page where you want to scroll back, then call `window.scrollTo()` with the appropriate coordinates. Here's an example:
+
+```javascript
+// Get the coordinates of the desired position on the page
+const desiredPosition = document.getElementById('yourElementId').getBoundingClientRect().top;
+
+// Scroll back to the desired position on the page
+window.scrollTo({
+  top: desiredPosition,
+  behavior: 'smooth' // Optional: adds smooth scrolling effect
+});
+```
+
+Replace `'yourElementId'` with the ID of the element you want to scroll to. This code will scroll the page to bring that element into view.
