@@ -57,10 +57,7 @@
 56. https://designstripe.com/
 57. resume
 58. starscimitar.com
-59. ,
-60. k
-61. g
-62. 
+    
 
 Let's go,,,
 
