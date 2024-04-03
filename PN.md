@@ -49,11 +49,11 @@
 48. post star
 49.  Person
 50.  Star
-51.  ux 
+51.  UX 
 52.  ui
 53.  Networking
 54.  work
-55. Videolll
+55. Video
 56. https://designstripe.com/
 57. resume
 58. starscimitar.com
