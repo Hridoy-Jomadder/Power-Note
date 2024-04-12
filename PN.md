@@ -15,7 +15,7 @@
 14. LocalHost
 15. Code Editor
 16. Mozilla Firefox
-17. Domin
+17. 
 18. Hosting
 19. Google SEO                                                                                                                
 20. Google Search Console
