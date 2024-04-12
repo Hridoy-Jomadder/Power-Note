@@ -49,11 +49,11 @@
 48. post star
 49.  Person
 50.  Star
-51.  UX 
-52.  ui
+51.  
+52.  
 53.  Networking
-54.  work
-55. Video
+54.  
+55. 
 56. https://designstripe.com/
 57. resume
 58. starscimitar.com
@@ -61,9 +61,6 @@
 60. Docter
 61. https://dribbble.com/
 62. Fish Paid
-63. KJN
-64. KJHGFC
-65. url
-66. 
+ 
 
 Let's go,,,
