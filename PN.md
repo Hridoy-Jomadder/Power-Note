@@ -38,12 +38,12 @@
 37. Advance PHP 
 38. Networking
 39. Law
-40. Dashboard
-41. Star Domain
+40. 
+41. 
 42. law f z
 43. Star Person
 44. Star Follow
-45. Star ok
+45. 
 46. Userid
 47. Type
 48. post star
@@ -55,7 +55,7 @@
 54.  
 55. 
 56. https://designstripe.com/
-57. resume
+57. 
 58. starscimitar.com
 59. laravel
 60. Docter
