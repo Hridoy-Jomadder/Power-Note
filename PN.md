@@ -67,7 +67,8 @@
 67. add to cards
 68. star ads role
 69. ostad pro
-70. 
+70. g
+71. 
 
  
 
