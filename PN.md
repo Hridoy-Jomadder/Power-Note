@@ -68,7 +68,7 @@
 68. star ads role
 69. ostad pro
 70. g
-71. ok
+71. 
 72. 
 
  
