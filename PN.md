@@ -69,7 +69,7 @@
 69. ostad pro
 70. like button
 71. unlike button
-72. 
+72. video
 
  
 
