@@ -55,7 +55,7 @@
 55.  start star coding
 56. update
 57. https://designstripe.com/
-58.  
+58. 
 59. starscimitar.com
 60. laravel
 61. Docter
