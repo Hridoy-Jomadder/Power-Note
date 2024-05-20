@@ -38,7 +38,7 @@
 37. Advance PHP 
 38. Networking
 39. Law
-40. 
+40. bangla 
 41. 
 42. law f z
 43. Star Person
