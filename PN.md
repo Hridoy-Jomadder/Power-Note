@@ -75,8 +75,8 @@
 75. https://www.flaticon.com/
 76. 
 77. Final Star
-78. Final Star_Ad
-79. 
+78.
+79.  Final Star_Ad
 80. Final Star_Dash
 
 
