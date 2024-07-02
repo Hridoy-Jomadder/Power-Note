@@ -82,7 +82,9 @@
 82. sql
 83. jo
 84. english trapy
-85. 
+
+85.  nbj
+86.   
 
 
 
