@@ -46,21 +46,21 @@
 46. Userid
 47. Type
 48. post star
-49.  Person
-50.  Star
+49.  
+50.  
 51.  Networking
 52. 
-53.  f
+53.  
 54.  
-55.  start star coding
-56. update
+55.  
+56. 
 57. https://designstripe.com/
 58. 
 59. starscimitar.com
 60. laravel
 61. Docter
 62. https://dribbble.com/
-63. Fish Paid
+63. 
 64. Star ads
 65. billing system 
 66. cards pay
