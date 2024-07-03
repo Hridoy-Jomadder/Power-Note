@@ -82,8 +82,7 @@
 82. sql
 83. jo
 84. english trapy
-
-85.  nbj
+85.  follower role not work
 86.   
 
 
