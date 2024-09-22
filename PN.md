@@ -38,7 +38,7 @@
 37. Advance PHP 
 38. Networking
 39. Law
-51.  Networking
+51. Networking
 57. https://designstripe.com
 59. starscimitar.com
 60. laravel
@@ -50,6 +50,4 @@
 68. star ads role
 74. server eo
 75. https://www.flaticon.com/
-  
-
 Let's go,,,
