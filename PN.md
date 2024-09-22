@@ -15,7 +15,7 @@
 14. LocalHost
 15. Code Editor
 16. Mozilla Firefox
-17. 
+17. intelwebhost.com
 18. Hosting
 19. Google SEO                                                                                                                
 20. Google Search Console
@@ -29,7 +29,7 @@
 28. Ethical Hacking
 29. UI 
 30. UX
-31. Star 
+31. Docter
 32. Star Dashboard 
 33. Todo list
 34. Advance SQL 
@@ -38,27 +38,12 @@
 37. Advance PHP 
 38. Networking
 39. Law
-40. bangla 
-41. 
-42. law f z
-43. Star Person
-44. Star Follow
-46. Userid
-47. Type
-48. post star
-49.  
-50.  
 51.  Networking
-52. 
-53. 
-54.  
-55.  
-56. 
 57. https://designstripe.com/
 58. 
 59. starscimitar.com
 60. laravel
-61. Docter
+61. 
 62. https://dribbble.com/
 63. 
 64. Star ads
@@ -66,11 +51,11 @@
 66. cards pay
 67. add to cards
 68. star ads role
-69. ostad pro
-70. like button
-71. unlike button
-72. islam_star.com
-73. fish
+69. 
+70. 
+71. 
+72. 
+73. 
 74. server eo
 75. https://www.flaticon.com/
   
