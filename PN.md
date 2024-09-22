@@ -39,23 +39,15 @@
 38. Networking
 39. Law
 51.  Networking
-57. https://designstripe.com/
-58. 
+57. https://designstripe.com
 59. starscimitar.com
 60. laravel
-61. 
 62. https://dribbble.com/
-63. 
 64. Star ads
 65. billing system 
 66. cards pay
 67. add to cards
 68. star ads role
-69. 
-70. 
-71. 
-72. 
-73. 
 74. server eo
 75. https://www.flaticon.com/
   
