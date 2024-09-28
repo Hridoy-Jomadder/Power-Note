@@ -46,8 +46,5 @@
 64. Star ads
 65. billing system 
 66. cards pay
-67. 
-68. star ads role
-74. server eo
 75. https://www.flaticon.com/
 Let's go,,,
