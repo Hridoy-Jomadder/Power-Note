@@ -43,7 +43,7 @@
 59. starscimitar.com
 60. laravel
 62. https://dribbble.com/
-64. Star ads
+64. 
 65. billing system 
 66. cards pay
 75. https://www.flaticon.com/
