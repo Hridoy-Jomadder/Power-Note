@@ -37,7 +37,7 @@
 36. Google search marketing 
 37. Advance PHP 
 38. Networking
-39. Law
+39. 
 51. Networking
 57. https://designstripe.com
 59. starscimitar.com
