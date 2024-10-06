@@ -37,13 +37,11 @@
 36. Google search marketing 
 37. Advance PHP 
 38. Networking
-39. 
 51. Networking
 57. https://designstripe.com
 59. starscimitar.com
 60. laravel
 62. https://dribbble.com/
-64. 
 65. billing system 
 66. cards pay
 75. https://www.flaticon.com/
