@@ -40,7 +40,6 @@
 51. Networking
 57. https://designstripe.com
 59. starscimitar.com
-60. 
 62. https://dribbble.com/
 65. billing system 
 66. cards pay
