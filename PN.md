@@ -44,4 +44,5 @@
 65. billing system 
 66. cards pay
 75. https://www.flaticon.com/
+76. All desgin okay
 Let's go,,,
