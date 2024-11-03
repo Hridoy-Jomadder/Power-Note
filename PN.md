@@ -54,6 +54,8 @@ post okay
 font size
 All language
 need to update a image slider
+need to new icon design
+
 
 
 
