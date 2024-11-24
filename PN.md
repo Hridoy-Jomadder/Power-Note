@@ -64,6 +64,8 @@ family user okay
 family dash okay
 
 Gold 
-Two type gole 
+Two type gold
+1. Gold
+2. Peper
 
 Let's go,,,
