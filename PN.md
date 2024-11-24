@@ -51,6 +51,7 @@ like
 like>>>>>>>>>>>>>>------------->>>>>>>>>>>>>>> users
 post okay
 
+Star Project
 font size
 All language
 need to update a image slider
@@ -69,6 +70,7 @@ Two type of gold.
 1. Gold
 2. Peaper
 * Create a gold coin for transactions.
+* tr
   
 
 Let's go,,,
