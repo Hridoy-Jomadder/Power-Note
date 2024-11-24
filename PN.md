@@ -63,6 +63,7 @@ Assets
 family user okay
 family dash okay
 
+Next mission *
 Gold 
 Two type of gold.
 1. Gold
