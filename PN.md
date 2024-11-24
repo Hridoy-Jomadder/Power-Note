@@ -69,5 +69,7 @@ Two type of gold.
 1. Gold
 2. Paper
 * Create a gold coin for transactions.
+
+* 
   
 Let's go,,,
