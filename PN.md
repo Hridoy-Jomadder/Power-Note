@@ -58,7 +58,6 @@ need to update a image slider
 need to new icon design
 
 i will be working tomorrow
-Star 
 Gold
 Assets
 family user okay
@@ -70,7 +69,5 @@ Two type of gold.
 1. Gold
 2. Peaper
 * Create a gold coin for transactions.
-* tr
   
-
 Let's go,,,
