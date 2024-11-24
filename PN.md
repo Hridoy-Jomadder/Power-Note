@@ -64,8 +64,10 @@ family user okay
 family dash okay
 
 Gold 
-Two type gold
+Two type of gold.
 1. Gold
-2. Peper
+2. Peaper
+* Create a gold coin for transactions.
+  
 
 Let's go,,,
