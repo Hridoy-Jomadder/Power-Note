@@ -67,7 +67,7 @@ Next mission *
 Gold 
 Two type of gold.
 1. Gold
-2. Peaper
+2. Paper
 * Create a gold coin for transactions.
   
 Let's go,,,
