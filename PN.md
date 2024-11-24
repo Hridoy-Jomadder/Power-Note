@@ -63,4 +63,7 @@ Assets
 family user okay
 family dash okay
 
+Gold 
+Two type gole 
+
 Let's go,,,
