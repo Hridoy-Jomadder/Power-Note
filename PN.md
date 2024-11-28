@@ -70,6 +70,6 @@ Two type of gold.
 2. Paper
 * Create a gold coin for transactions.
 
-* 
+* Family Card
   
 Let's go,,,
