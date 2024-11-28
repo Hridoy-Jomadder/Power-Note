@@ -37,7 +37,7 @@
 36. Google search marketing 
 37. Advance PHP 
 38. Networking
-51. Networking
+51. 
 57. https://designstripe.com
 59. starscimitar.com
 62. https://dribbble.com/
@@ -52,6 +52,7 @@ like>>>>>>>>>>>>>>------------->>>>>>>>>>>>>>> users
 post okay
 
 Star Project
+icon           (First need to graph designer )
 font size
 All language
 need to update a image slider
