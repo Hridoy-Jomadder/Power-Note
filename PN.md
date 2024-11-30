@@ -72,6 +72,8 @@ Two type of gold.
 * Create a gold coin for transactions.
 
 * Family Card
-* all 
+* all
+* d
+* m
   
 Let's go,,,
