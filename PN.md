@@ -4,6 +4,8 @@
 3.Family Card
 4.
 
+My Friend Project:[Detox](https://www.fitraat.com/) or https://www.fitraat.com/
+
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
 2. Css 
