@@ -1,6 +1,6 @@
 #Project
-1.[Fish Project](https://www.fisheriesbangladesh.com/)
-2.
+1.[Fish Information Advice Project](https://www.fisheriesbangladesh.com/)
+2.[Star Project](https://islam-star.com/login)
 
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
