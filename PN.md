@@ -10,6 +10,7 @@
 
 5.comming soon
 
+
 My Friend Project:[Detox](https://www.fitraat.com/) or https://www.fitraat.com/
 
 # Note Name: Power-Note
