@@ -6,7 +6,7 @@
 
 3. Family Card (localhost live)
 
-4. Smart country ()
+4. Smart country (all)
 
 5.comming soon
 
