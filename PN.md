@@ -10,8 +10,7 @@
 
 5. Good work 
 
-
-6.
+6.alhamdulallah
 
 
 My Friend Project:[Detox](https://www.fitraat.com/) or https://www.fitraat.com/
