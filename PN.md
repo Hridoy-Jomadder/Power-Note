@@ -6,9 +6,11 @@
 
 3. Family Card (localhost live)
 
-4. Smart country (all)
+4. Train 
 
-5.comming soon
+5.
+
+6.
 
 
 My Friend Project:[Detox](https://www.fitraat.com/) or https://www.fitraat.com/
