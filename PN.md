@@ -1,6 +1,6 @@
 #Project
 
-1. [Fish Information Advice Project](https://www.fisheriesbangladesh.com/)
+1. [Fish Information Advice Project](https://www.fisheriesbangladesh.com)
 
 2. [Dream Project](https://islam-star.com/login)
 
