@@ -16,9 +16,6 @@
 
 8. k
 
-
-
-
 My Friend Project:[Detox](https://www.fitraat.com/) or https://www.fitraat.com/
 
 # Note Name: Power-Note
