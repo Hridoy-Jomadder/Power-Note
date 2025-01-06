@@ -81,22 +81,11 @@ All language
 need to update a image slider
 need to new icon design
 
-i will be working tomorrow
-Gold
-Assets
-family user okay
-family dash okay
-
 Next mission *
 Gold 
 Two type of gold.
 1. Gold
 2. Paper
 * Create a gold coin for transactions.
-
-* Family Card
-* all
-* d
-* m
   
 Let's go,,,
