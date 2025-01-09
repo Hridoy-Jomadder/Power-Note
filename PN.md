@@ -10,10 +10,9 @@
 
 5.  All Train 
 
-6. Good work
+
 
 7. fnd
-
 
 My Friend Project:[Detox](https://www.fitraat.com/) or https://www.fitraat.com/
 
