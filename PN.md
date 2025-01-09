@@ -11,9 +11,6 @@
 5.  All Train 
 
 
-
-7. fnd
-
 My Friend Project:[Detox](https://www.fitraat.com/) or https://www.fitraat.com/
 
 # Note Name: Power-Note
