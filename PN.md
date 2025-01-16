@@ -9,9 +9,6 @@
 4. Marketing
 
 5. train
- 
-
-My Friend Project:[Detox](https://www.fitraat.com/) or https://www.fitraat.com/
 
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
