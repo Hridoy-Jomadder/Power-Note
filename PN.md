@@ -9,8 +9,6 @@
 4. Marketing
 
 5. train
-
-6. 
  
 
 My Friend Project:[Detox](https://www.fitraat.com/) or https://www.fitraat.com/
