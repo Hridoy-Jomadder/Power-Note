@@ -8,7 +8,6 @@
 
 4. Marketing
 
-
 5. train
 
 # Note Name: Power-Note
