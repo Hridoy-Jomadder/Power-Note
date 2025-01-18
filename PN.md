@@ -7,9 +7,12 @@
 3. Family Card (localhost live)
 
 4. Marketing
-5. 
 
-6. train 
+5. D
+6. 
+7. 
+
+8. train 
 
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
