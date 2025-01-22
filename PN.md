@@ -8,13 +8,12 @@
 
 4. Marketing
 
+
 5. 
 6. 
 7. 
-8. 
-9. 
 
-10. train 
+8. train 
 
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
