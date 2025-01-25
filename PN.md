@@ -8,10 +8,7 @@
 
 4. Marketing (localhost live)
 5. 
-
-6. D 
-7. h
-8. j
+\
 9. 
 10. 
 
