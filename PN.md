@@ -10,10 +10,7 @@
 5.  
 6.  
 9. 
-
-10. 
-
-11. train 
+10. train 
 
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
