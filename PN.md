@@ -9,11 +9,12 @@
 4. Marketing (localhost live)
 
 5. kkk
-6. 
-7.  
+
+7. 
 8.  
-9. 
-10. train 
+9.  
+10. 
+11. train 
 
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
