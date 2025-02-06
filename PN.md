@@ -10,7 +10,8 @@
 5. Cv
 6. k
 7. l
-8. train 
+8. train
+9. 
 
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
