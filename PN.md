@@ -7,7 +7,7 @@
 3. Family Card (localhost live)
 
 4. Marketing (localhost live)
-5. Fish Ships
+5. Fishing Ships
 6. Networking
 7. 
 8. train
