@@ -13,8 +13,6 @@
 8. ll
 9. train
 10. g
-10.vorfckrrkfpoewwf
-
 
 
 # Note Name: Power-Note
