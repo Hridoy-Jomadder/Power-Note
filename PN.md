@@ -12,7 +12,7 @@
 7. lkj
 8. ll
 9. train
-10. g
+10. 
 
 
 # Note Name: Power-Note
