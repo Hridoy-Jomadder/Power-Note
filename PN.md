@@ -1,11 +1,8 @@
 #Project
 
 1. [Fish Information Advice Project](https://www.fisheriesbangladesh.com)
-
 2. [Dream Project](https://islam-star.com/login)
-
 3. Family Card (localhost live)
-
 4. Marketing (localhost live)
 5. Fishing Ships
 6. Networking
