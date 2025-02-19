@@ -13,7 +13,7 @@
 8. ll
 9. train
 10. 
--
+
 
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
