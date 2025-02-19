@@ -13,7 +13,7 @@
 8. ll
 9. train
 10. 
-
+-
 
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
@@ -39,7 +39,7 @@
 21. Google Analytics
 22. Git
 23. Github Profile
-24. LinkedIn Profile
+24. 24. LinkedIn Profile
 25. Icon (https://fontawesome.com), (https://www.iconfinder.com), (https://iconmonstr.com), (https://icons8.com)
 26. Data Science & Analytics
 27. Cybersecurity
