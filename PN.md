@@ -9,7 +9,7 @@
 7. ik
 8. ll
 9. train
-10. 
+10. hi
 
 
 # Note Name: Power-Note
