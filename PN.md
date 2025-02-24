@@ -6,7 +6,7 @@
 4. Marketing (localhost live)
 5. Fishing Ships
 6. Networking
-7. Marin
+7. Marin & satilate
 8. lljm
 9. train
 10. hi
