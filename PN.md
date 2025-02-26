@@ -6,10 +6,10 @@
 4. Marketing (localhost live)
 5. Fishing Ships
 6. Networking
-7. Marin & satilate
+7. Marin & satellite
 8. Fish Ship
-9. Train m
-10. himmm,
+9. Train 
+10. hi
 
 
 # Note Name: Power-Note
