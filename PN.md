@@ -10,7 +10,6 @@
 8. Fish Ship
 9. Train
 10.ok
-   nndsmd;l
    
 
 
