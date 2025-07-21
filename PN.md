@@ -9,7 +9,7 @@
 7. Marin & satellite
 8. Fish Ship
 9. Train
-10.mk
+10.mk ng
    fvd bdfd
 
 # Note Name: Power-Note
