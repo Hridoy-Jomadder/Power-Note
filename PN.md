@@ -9,7 +9,7 @@
 7. Marin & satellite
 8. Fish Ship
 9. Train
-10.km jk
+10.km jktg
    
 
 # Note Name: Power-Note
