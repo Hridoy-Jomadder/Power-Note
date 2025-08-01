@@ -12,7 +12,7 @@
 10. Starlink
    11. Chain
    12. MARKETING OKAY
-   13.    rgrtyjugk,
+   13.    rgrtyjugk,fg f
    vrev
 
 # Note Name: Power-Note
