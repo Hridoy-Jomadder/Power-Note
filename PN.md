@@ -12,8 +12,7 @@
 10. Starlink
    11. Chain
    12. MARKETING OKAY
-   13.    rgrtyjugk,fg f
-   vrevg fv gv
+   13. 
 
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
