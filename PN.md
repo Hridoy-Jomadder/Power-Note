@@ -13,7 +13,7 @@
    11. Chain
    12. MARKETING OKAY
    13. krishibangladesh
-   14. xdfgh
+   14. 
    15. xdxfg
 
 # Note Name: Power-Note
