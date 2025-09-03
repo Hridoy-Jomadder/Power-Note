@@ -15,7 +15,7 @@
    13. krishibangladesh
    14. https://softbdltd.com/
    15. admit card
-   16. 
+   16. ok
        
 
 # Note Name: Power-Note
