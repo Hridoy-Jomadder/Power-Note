@@ -16,7 +16,7 @@
    14. https://softbdltd.com/
    15. admit card
    16. ok
-   17. 
+   17. LK
        
 
 # Note Name: Power-Note
