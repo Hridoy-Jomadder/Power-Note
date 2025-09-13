@@ -17,7 +17,7 @@
    15. admit card
    16. okkkk
    17. K
-       
+       ll
 
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
