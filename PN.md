@@ -16,8 +16,7 @@
    14. https://softbdltd.com/
    15. admit card
    16. ok
-   17. KK
-       ll
+       
 
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
