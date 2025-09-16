@@ -15,8 +15,7 @@
    13. krishibangladesh
    14. https://softbdltd.com/
    15. admit card
-   16. ok
-       SSSSSSSSSSSSSS
+   16. 
 
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
