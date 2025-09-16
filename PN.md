@@ -14,7 +14,7 @@
    12. MARKETING OKAY
    13. krishibangladesh
    14. https://softbdltd.com/
-   15. admit card
+   15. 47 bcs admit card
    16. 
 
 # Note Name: Power-Note
