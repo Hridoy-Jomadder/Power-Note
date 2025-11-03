@@ -16,6 +16,7 @@
    14. https://softbdltd.com/
    15. laws 
    16. kk
+   17. k
  
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
