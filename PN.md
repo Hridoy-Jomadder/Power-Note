@@ -15,7 +15,7 @@
    13. krishibangladesh
    14. https://softbdltd.com/
    15. laws 
-   16. J
+   16. 
    17. 
  
 # Note Name: Power-Note
