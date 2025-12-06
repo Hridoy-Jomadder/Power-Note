@@ -19,7 +19,7 @@
    17. water & bort 
 18.familycard
 19.starlink
-20.wow
+20.
 21.
 22.new
 23.yhtg
