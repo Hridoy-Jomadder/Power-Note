@@ -19,11 +19,7 @@
    17. water & bort 
 18.familycard
 19.starlink
-20.OK
-21.MK
-22.new
-23.yhtg
-25.MM
+20.
  
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
