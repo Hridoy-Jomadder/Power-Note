@@ -19,7 +19,7 @@
 17. water & bort 
 18.familycard
 19.starlink
-20.family card
+20.family card       
 21. okay 
  
 # Note Name: Power-Note
