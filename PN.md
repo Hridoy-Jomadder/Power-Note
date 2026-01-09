@@ -22,7 +22,7 @@
 20.family card       
 21. okay
 22. fb post
-23. l
+
  
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
