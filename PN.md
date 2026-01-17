@@ -23,6 +23,7 @@
 22. fb post
 23. ui
 24. ux
+25. all 
 
  
 # Note Name: Power-Note
