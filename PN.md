@@ -21,10 +21,8 @@
 19.starlink
 20.family card       
 22. fb post
-23. ui
-24. ux
-25. all
-26. ok
+23.
+
 
  
 # Note Name: Power-Note
