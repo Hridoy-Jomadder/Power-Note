@@ -18,7 +18,7 @@
 16. book       
 17. water & bort 
 18.familycard
-19.
+19.lkkkk
 20.family card       
 22. 
 23.
