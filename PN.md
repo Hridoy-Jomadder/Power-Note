@@ -16,7 +16,8 @@
 14. https://softbdltd.com/
 15. laws 
 16. book       
-17. water & bort 
+17. water & bort
+18. 
 
  
 # Note Name: Power-Note
