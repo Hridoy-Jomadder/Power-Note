@@ -17,12 +17,6 @@
 15. laws 
 16. book       
 17. water & bort 
-18.familycard
-19.lkkkk
-20.family card     complete  
-22. word file 
-23.
-
 
  
 # Note Name: Power-Note
