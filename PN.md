@@ -20,6 +20,7 @@
 18. lkk
 19. k
 20. ;loki
+21. 
 
  
 # Note Name: Power-Note
