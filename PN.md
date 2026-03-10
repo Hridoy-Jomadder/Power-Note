@@ -19,7 +19,7 @@
 17. water & bort
 18. lkk
 19. k
-20. 
+20. ;loki
 
  
 # Note Name: Power-Note
