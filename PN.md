@@ -17,10 +17,7 @@
 15. laws 
 16. book       
 17. water & bort
-18. lkk
-19. k
-20. ;loki
-21. 
+
 
  
 # Note Name: Power-Note
