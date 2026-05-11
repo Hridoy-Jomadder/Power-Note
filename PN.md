@@ -15,8 +15,7 @@
 13. MARKETING OKAY
 14. krishibangladesh
 15. https://softbdltd.com/
-16. laws 
-17. book       
+16. laws       
 18. water & bort
 19.law
 20.hacking
