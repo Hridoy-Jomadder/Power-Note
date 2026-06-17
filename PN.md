@@ -24,8 +24,7 @@
 23. CooHom Home 
 24. Project 1 & 2
 25.?Job
-
-
+26..
  
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
