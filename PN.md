@@ -17,14 +17,12 @@
 15. https://softbdltd.com/
 16. laws       
 18. water & bort
-19. law
+19. Land
 20. hacking
 21. 71*
 22. Complete Family Card
 23. CooHom Home 
 24. Project 1 & 2
-25.?Job
-26..
  
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
