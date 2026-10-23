@@ -22,11 +22,11 @@
 21. 71*
 22. Complete Family Card
 23. CooHom Home 
-24. Project 1 & 2
+24. 
 25. tuna
 26. bangladesh map
 27. hero
-28. code: 
+
  
 # Note Name: Power-Note
 1. Html (https://www.w3schools.com/)
