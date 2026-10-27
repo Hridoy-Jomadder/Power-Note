@@ -10,21 +10,21 @@
 8. Marin & satellite
 9. Chain
 10. water & bort
-11. 
-12. 
-13. 
+11. https://softbdltd.com
+12. bangladesh map
+13. tuna
 14. 
-15. https://softbdltd.com/
+15. 
 16. 
 18. 
 19. 
 20. 
 21. 
-22. Complete Family Card
+22. 
 23. CooHom Home 
 24. 
-25. tuna
-26. bangladesh map
+25. 
+26. 
 27. hero
 
  
