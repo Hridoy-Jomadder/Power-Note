@@ -13,19 +13,7 @@
 11. https://softbdltd.com
 12. bangladesh map
 13. tuna
-14. 
-15. 
-16. 
-18. 
-19. 
-20. 
-21. 
-22. 
-23. CooHom Home 
-24. 
-25. 
-26. 
-27. hero
+14. CooHom Home
 
  
 # Note Name: Power-Note
